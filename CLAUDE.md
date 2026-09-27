@@ -8,7 +8,7 @@ importing into Google Sheets.
 
 - **Firecrawl** is the scraping engine. Quick per-tool reference (search,
   scrape, interact, parse, crawl, map, monitor, research, ask, docs-search):
-  see [firecrawl-cheatsheet.md](firecrawl-cheatsheet.md).
+  see [firecrawl-cheatsheet.md](.claude/skills/firecrawl/firecrawl-cheatsheet.md).
 - Full setup/usage skill: [.claude/skills/firecrawl/SKILL.md](.claude/skills/firecrawl/SKILL.md).
 - MCP server `firecrawl` is registered globally (user scope) and authenticated
   via `claude mcp login firecrawl` — prefer it when loaded in-session. Falls
@@ -19,7 +19,7 @@ importing into Google Sheets.
 
 - `.env` — `FIRECRAWL_API_KEY`, gitignored
 - `output/` — scrape results (CSV/markdown) ready for spreadsheet import
-- `firecrawl-cheatsheet.md` — per-tool quick reference
+- `.claude/skills/firecrawl/firecrawl-cheatsheet.md` — per-tool quick reference
 - `.claude/skills/firecrawl/` — project-scoped Firecrawl skill
 
 ## Conventions
