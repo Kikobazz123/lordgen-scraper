@@ -7,7 +7,7 @@ datasets from the web without writing and maintaining a scraper per site.
 Built by **[Lordmark Dorgu](https://github.com/Kikobazz123)** · MIT licensed (the
 workflow and docs; see [Data](#data) for the scraped files).
 
-<!-- TODO: add screenshot of a CSV opened in Google Sheets -->
+![First rows of the Jobberman dataset the workflow produced](docs/preview.png)
 
 ---
 
